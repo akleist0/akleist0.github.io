@@ -1,0 +1,17 @@
+body {
+    background-color: #080f30;
+    font-family: GT Walsheim;
+}
+h1 {
+    color: #ffffff;
+    text-align: center;
+}
+h2 {
+    color: #ffffff;
+    text-align: left;
+}
+p {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #aed9f0;
+}
